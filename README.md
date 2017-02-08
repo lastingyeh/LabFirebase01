@@ -28,6 +28,6 @@ this version just for IOS (as it use the component of AlertIOS that shows modal)
 
 5. demo 
 
-![alt tag](https://github.com/lastingyeh/)
+![alt tag](https://github.com/lastingyeh/LabFirebase01/blob/master/demo.gif)
 
 6. refs by https://firebase.googleblog.com/2016/01/the-beginners-guide-to-react-native-and_84.html
