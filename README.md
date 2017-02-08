@@ -1,33 +1,35 @@
-#### firebase Database settings.
+## firebase Database settings.
 
-s1. go to firebase
+    s1. go to firebase
 
-s2. create new project
+    s2. create new project
 
-s3. select 'join the Internet application'
+    s3. select 'join the Internet application'
 
-s4. copy config object to your config.js (for firebase initialize use)
+    s4. copy config object to your config.js (for firebase initialize use)
 
-#### application settings.
+## application settings.
 
-1. install firebase
+1.install firebase
 
-npm install firebase --save
+    npm install firebase --save
 
-2. copy all project
+2.copy all project
 
-npm install
+    npm install
 
-3. go to firebase, and create new firebase project
+3.go to firebase, and create new firebase project
 
-like description above...
+    like description above...
 
-4. react-native run-ios 
+4.react-native run-ios 
 
-this version just for IOS (as it use the component of AlertIOS that shows modal)
+    this version just for IOS (as it use the component of AlertIOS that shows modal)
 
-5. demo 
+5.demo 
 
 ![alt tag](https://github.com/lastingyeh/LabFirebase01/blob/master/demo.gif)
 
-6. refs by https://firebase.googleblog.com/2016/01/the-beginners-guide-to-react-native-and_84.html
+6.refs by 
+
+    https://firebase.googleblog.com/2016/01/the-beginners-guide-to-react-native-and_84.html
