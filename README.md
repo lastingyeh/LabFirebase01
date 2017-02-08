@@ -24,7 +24,7 @@
 
 4.react-native run-ios 
 
-    this version just for IOS (as it use the component of AlertIOS that shows modal)
+    this version just for IOS (it uses the component of AlertIOS that shows modal)
 
 5.demo 
 
